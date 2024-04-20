@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CrudRestaurante
 {
-    public partial class Form1 : Form
+    public partial class formSeleccionDeProceso : Form
     {
-        public Form1()
+        public formSeleccionDeProceso()
         {
             InitializeComponent();
         }
